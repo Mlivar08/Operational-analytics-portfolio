@@ -115,3 +115,13 @@ Operational dashboard was designed and migrated to Power BI due to data volume a
 -Power BI visualization
 
 -Business process analysis and KPI definition
+
+---
+
+## Data confidentiality
+
+All dashboards shown in this repository correspond to real professional projects.  
+To preserve company confidentiality, sensitive information has been anonymized.
+
+Axes scales, labels and selected numerical values have been modified or removed while maintaining the analytical structure and interpretation of the analysis.
+
