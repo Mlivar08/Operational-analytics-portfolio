@@ -18,4 +18,4 @@ Logistics performance monitoring across multiple warehouses, identifying deliver
 
 Sales and store traffic analysis across physical and online channels, including workforce performance and inventory distribution automation.
 
-→ [Open project](retail)
+→ [Open project](retail_store_operations)
