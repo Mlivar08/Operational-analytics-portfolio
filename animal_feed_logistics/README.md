@@ -106,8 +106,8 @@ Operational dashboard was designed and migrated to Power BI due to data volume a
 
 ## Tools and skills
 
-Data modeling and integration across relational sources
-Power Query and Power Pivot
-DAX calculations and time intelligence
-Power BI visualization
-Business process analysis and KPI definition
+-Data modeling and integration across relational sources
+-Power Query and Power Pivot
+-DAX calculations and time intelligence
+-Power BI visualization
+-Business process analysis and KPI definition
