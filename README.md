@@ -4,7 +4,8 @@ This repository presents selected real-world analytics projects developed to sup
 
 The focus of these dashboards is not visualization itself, but monitoring performance, detecting inefficiencies and enabling corrective actions through data.
 
-All company identifiers and sensitive data have been anonymized.
+The projects presented are reconstructed analytical cases inspired by real professional experience. 
+All company identifiers, scales, labels and operational details were modified to prevent attribution to any specific organization.
 
 ### Projects
 1. Feed Distribution Service Level Monitoring
