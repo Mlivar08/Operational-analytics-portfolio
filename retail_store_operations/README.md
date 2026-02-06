@@ -53,7 +53,7 @@ Additionally, operational processes were automated to reduce repetitive manual t
 
 -visitors per store
 
-- metrics differences between years by store
+-metrics differences between years by store
 
 -Sales vs Target vs Budget by store
 
@@ -62,7 +62,7 @@ Additionally, operational processes were automated to reduce repetitive manual t
 ### Employee productivity tracking
 ![Employee report](images/employee_report.png)
 
-- employee performance
+-employee performance
 
 ### Operational automation
 
