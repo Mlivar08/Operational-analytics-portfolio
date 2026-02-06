@@ -2,7 +2,7 @@
 
 ## Business context
 
-A large animal feed distribution operation delivered approximately 600 tons and 1200 orders per day across multiple factories, warehouses and geographic regions.
+A large animal feed distribution operation delivered approximately 600 tons (1200 orders) per day across multiple factories, warehouses and geographic regions.
 Operations included bulk and bagged feed, multiple animal species and different delivery lead times.
 
 Customer satisfaction depended heavily on delivery reliability and planning discipline. Same-day requests and emergency orders generated operational pressure, transport inefficiencies and service failures.
@@ -29,6 +29,10 @@ As a result:
 
 ## Analytical solution
 
+### Operational monitoring view
+![Service level overview](images/SL_overview.png)
+
+
 A centralized operational dashboard was designed to monitor logistics performance in a single view.
 
 The system integrated the order management system with CRM incident records to evaluate not only delivery execution but customer experience.
@@ -41,13 +45,17 @@ Initially developed in Excel (Power Query + Power Pivot), the model was later mi
 
 Key performance indicators were defined to reflect real service quality:
 
+### Key performance indicators
+![Bussiness performance](images/SL_Header.png)
+
+
 INFULL
 Delivered quantity vs ordered quantity
 
 ONTIME
 Delivered within agreed delivery window
 
-Service Level (SL)
+Service Level (NS)
 INFULL × ONTIME
 
 Perfect Order (PEPES)
@@ -58,6 +66,10 @@ Orders requested for same-day delivery
 
 ### Operational distribution
 
+
+### Warehouse performance diagnosis
+![Warehouse performance](images/SL_Body.png)
+
 kilograms delivered
 
 bulk vs bagged distribution
@@ -67,6 +79,9 @@ performance by warehouse and region
 top customers by volume
 
 ## Operational impact
+
+### Service level evolution
+![Service evolution](images/evolution.png)
 
 The dashboard transformed daily operations from reactive to preventive monitoring.
 
@@ -83,6 +98,11 @@ It enabled:
 -Evaluation of long-term service evolution
 
 The tool became the daily operational reference for service representatives and logistics management.
+
+Operational dashboard was designed and migrated to Power BI due to data volume and historical accumulation requirements.
+
+### PBI implementation
+![PBI dashboard](images/Dasboard_supply_chain.jpg)
 
 ## Tools and skills
 
