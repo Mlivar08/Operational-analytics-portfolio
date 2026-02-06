@@ -52,7 +52,9 @@ Additionally, operational processes were automated to reduce repetitive manual t
 ![Customer report](images/customer_report.png)
 
 -visitors per store
+
 -difference between years
+
 -Sales vs Target vs Budget
 
 ### Workforce performance
