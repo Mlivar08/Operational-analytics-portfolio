@@ -49,19 +49,19 @@ Key performance indicators were defined to reflect real service quality:
 ![Bussiness performance](images/SL_Header.png)
 
 
-INFULL
+-INFULL
 Delivered quantity vs ordered quantity
 
-ONTIME
+-ONTIME
 Delivered within agreed delivery window
 
-Service Level (NS)
+-Service Level (NS)
 INFULL × ONTIME
 
-Perfect Order (PEPES)
+-Perfect Order (PEPES)
 Orders with 100% service level and no quality or transport incident
 
-Emergency Orders (AXA)
+-Emergency Orders (AXA)
 Orders requested for same-day delivery
 
 ### Operational distribution
@@ -70,13 +70,13 @@ Orders requested for same-day delivery
 ### Warehouse performance diagnosis
 ![Warehouse performance](images/SL_Body.png)
 
-kilograms delivered
+-kilograms delivered
 
-bulk vs bagged distribution
+-bulk vs bagged distribution
 
-performance by warehouse and region
+-performance by warehouse and region
 
-top customers by volume
+-top customers by volume
 
 ## Operational impact
 
