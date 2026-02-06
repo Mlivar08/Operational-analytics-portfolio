@@ -53,9 +53,9 @@ Additionally, operational processes were automated to reduce repetitive manual t
 
 -visitors per store
 
--difference between years
+- metrics differences between years by store
 
--Sales vs Target vs Budget
+-Sales vs Target vs Budget by store
 
 ### Workforce performance
 
