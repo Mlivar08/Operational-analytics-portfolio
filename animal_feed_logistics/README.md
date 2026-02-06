@@ -97,7 +97,7 @@ It enabled:
 
 -Evaluation of long-term service evolution
 
-The tool became the daily operational reference for service representatives and logistics management.
+#### The tool became the daily operational reference for service representatives and logistics management.
 
 Operational dashboard was designed and migrated to Power BI due to data volume and historical accumulation requirements.
 
@@ -107,7 +107,11 @@ Operational dashboard was designed and migrated to Power BI due to data volume a
 ## Tools and skills
 
 -Data modeling and integration across relational sources
+
 -Power Query and Power Pivot
+
 -DAX calculations and time intelligence
+
 -Power BI visualization
+
 -Business process analysis and KPI definition
